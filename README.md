@@ -1,6 +1,6 @@
 # UcgenHipotenusVeAlan
 ## Ucgende Hipotenus Bulma
-* Hipotenus = Karekok((a * a) +(b * b)
+* Hipotenus = Karekok((a * a) +(b * b))
 
 ## Ucgenin Alanini Bulma
 * u = (a + b + c)/2
